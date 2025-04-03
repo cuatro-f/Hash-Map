@@ -15,7 +15,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b740096-e10e-40f1-be90-ab285afe1947" name="Changes" comment="" />
+    <list default="true" id="9b740096-e10e-40f1-be90-ab285afe1947" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/54" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +30,9 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MakefileLocalSettings">
     <option name="availableProjects">
@@ -62,10 +67,10 @@
     <option name="minorVersion" value="1" />
     <option name="productBranch" value="Classic" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2vEwTzv1BtinS4XFVLmdVwIVnns" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -78,6 +83,11 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -111,8 +121,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743723554614</updated>
-      <workItem from="1743723555317" duration="61000" />
+      <workItem from="1743723555317" duration="398000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
